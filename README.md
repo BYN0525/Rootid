@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # catbook-react
 
 ## start up
@@ -23,3 +24,6 @@ server/server-socket.js
 package-lock.json
 webpack.config.js
 ```
+=======
+# Rootid
+>>>>>>> origin/main
